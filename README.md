@@ -5,11 +5,6 @@ V stepped into the crowd, creating this wonderful repository to make the rice of
 
 ## Screenshots
 
-Input file (I used removebg site to turn it to .png) :
-![App Screenshot](https://dummyimage.com/120x60?text=App+Screenshot+Here)
-
-Ta dam (that's crazy)
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
 
 ## Authors
 
