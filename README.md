@@ -12,7 +12,7 @@ Input file (I used removebg site to turn it to .png) :
 Ta dam (that's crazy)
 ![App Screenshot](./screenshots/3.png)
 ![App Screenshot](./screenshots/1.png)
-![App Screenshot](./screenshots/3.png)
+![App Screenshot](./screenshots/2.png)
 
 ## Authors
 
