@@ -4,7 +4,11 @@
 V stepped into the crowd, creating this wonderful repository to make the rice of fastfetch easier and simplier. Here you will find basic scripts to turn .png image to ascii art.
 
 ## Screenshots
+Input file (I used removebg site to turn it to .png) :
+![App Screenshot](./screenshots/input.png)
 
+Ta dam (that's crazy)
+![App Screenshot](./screenshots/3.png)
 
 ## Authors
 
