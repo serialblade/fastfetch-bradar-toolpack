@@ -5,7 +5,7 @@ V stepped into the crowd, creating this wonderful repository to make the rice of
 
 ## Screenshots
 Input file (I used removebg site to turn it to .png) :
-![App Screenshot](./screenshots/input.png)
+![App Screenshot](./screenshots/original.png)
 
 Ta dam (that's crazy)
 ![App Screenshot](./screenshots/3.png)
