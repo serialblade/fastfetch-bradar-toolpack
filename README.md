@@ -5,11 +5,11 @@ V stepped into the crowd, creating this wonderful repository to make the rice of
 
 ## Screenshots
 
-Input file (I used removebg site to turn it to .png) :
+Input file :
 
 ![App Screenshot](./screenshots/kula.png)
 
-Ta dam (that's crazy)
+Ta dam (that's crazy) (the 3 screenshots are not even an img !)
 ![App Screenshot](./screenshots/3.png)
 ![App Screenshot](./screenshots/1.png)
 ![App Screenshot](./screenshots/2.png)
